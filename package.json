@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-experiments",
+  "version": "1.0.0",
+  "description": "Some random tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derek-diaz/nodejs-experiments.git"
+  },
+  "author": "Derek Diaz Correa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derek-diaz/nodejs-experiments/issues"
+  },
+  "homepage": "https://github.com/derek-diaz/nodejs-experiments#readme",
+  "dependencies": {
+    "fastify": "^3.22.0",
+    "node-fetch": "^2.6.5"
+  }
+}
