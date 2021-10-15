@@ -233,3 +233,10 @@ dist
 .webpack/
 
 # End of https://www.toptal.com/developers/gitignore/api/node,intellij
+/.idea/.gitignore
+/.idea/jsLibraryMappings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/nodejs-experiments.iml
+/package-lock.json
+/.idea/vcs.xml
